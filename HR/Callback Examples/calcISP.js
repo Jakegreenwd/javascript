@@ -54,29 +54,3 @@ var nuclear = engine[3];
 logArray(engine); //calling the logArray function the the console
 
 calcISP(ion,print); //caling the calcISP function with the print callback function to log it to the console
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
