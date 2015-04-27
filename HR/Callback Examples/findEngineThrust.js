@@ -24,13 +24,3 @@ var srb = new engineParams("Solid Rocket Booster",0.83,2); //create new object u
 
 findThrust(ssme,print); // call findThrust function with ssme properties and use print callback function
 findThrust(srb,print); //call findThrust function with srb properties and use print callback function
-
-
-
-
-
-
-
-
-
-
