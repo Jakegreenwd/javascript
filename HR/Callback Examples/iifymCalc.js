@@ -57,10 +57,3 @@ var amy = new Person(female,58,120,26);
 
 macroBreakdown(jake,bulk,print); //call macroBreakdown function 
 macroBreakdown(amy,cut,print);
-
-
-
-
-
-
-
