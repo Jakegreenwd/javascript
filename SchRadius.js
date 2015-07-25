@@ -47,6 +47,3 @@ for(var i=0; i<cosmicBodies.length; i++) { //for loop using schRadius and toArra
 }
 
 printArray(radii); //print array to console using printArray function
-
-
-
