@@ -24,11 +24,25 @@ function range(start,end,step) { //function to log range of numbers to declared 
 	return sum; //return sum
 }
 
-range(50,0,5); //call range function starting from 50 and counting down to 0 by 5
+range(0,50,5); //call range function starting from 50 and counting down to 0 by 5
+console.log(numbers);
 
-console.log(numbers); //print out elements of array
+function binarySearch(number) {
+	var minNum,maxNum;
+	minNum = 
+	for(var i=0; i>numbers.length; i++) {
+		if(number === 25) {
+			console.log(numbers[i]);
+		}
+		else if)
+		
+	}
+}
 
-//-> [ 50, 45, 40, 35, 30, 25, 20, 15, 10, 5, 0 ]
+binarySearch(25);
+
+
+
 
 
 
