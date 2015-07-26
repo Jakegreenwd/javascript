@@ -1,0 +1,54 @@
+{
+  "launchVehicles": [
+    {
+      "name": "ULA Delta IV M+(4,2)",
+      "toGTO": 6390,
+      "launchCost": 200
+    },
+    {
+      "name": "ULA Delta IV Heavy",
+      "toGTO": 14220,
+      "launchCost": 375
+    },
+    {
+      "name": "ULA Atlas V 401",
+      "toGTO": 4750,
+      "launchCost": 150
+    },
+    {
+      "name": "ULA Atlas V 421",
+      "toGTO": 6890,
+      "launchCost": 170
+    },
+    {
+      "name": "ULA Atlas V 551",
+      "toGTO": 8900,
+      "launchCost": 200
+    },
+    {
+      "name": "SpaceX Falcon 9 1.1",
+      "toGTO": 4850,
+      "launchCost": 60
+    },
+    {
+      "name": "SpaceX Falcon Heavy",
+      "toGTO": 21200,
+      "launchCost": 110
+    },
+    {
+      "name": "ILS Proton-M Briz",
+      "toGTO": 6700,
+      "launchCost": 90
+    },
+    {
+      "name": "ArianeSpace Soyuz ST-B",
+      "toGTO": 3250,
+      "launchCost": 65
+    },
+    {
+      "name": "ArianeSpace Ariane 5",
+      "toGTO": 10500,
+      "launchCost": 200
+    }
+  ]
+}
